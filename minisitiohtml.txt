@@ -1,0 +1,2 @@
+09_minisitio
+    Organiza un pequeño sitio en la carpeta minisitio, deberías tener una maquetación con cabecera pie y barra de menú y zona central de contenido. Se valorará la organización de código en carpetas.
